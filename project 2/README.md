@@ -1,3 +1,9 @@
+Project 2
+The Instructable
+---
+So I decided to do a cooking recipie for the live site, but I used my README as more of a journal with my coding process.
+
+
 TO DO - Make a website with Baking Instuctions
 
 Had a problem with getting the images loading on the live site
