@@ -32,3 +32,16 @@ The requirements due in the project are a little vague on the page
 I think I have 5 out of the 10 elements but I'm not sure
 
 need to work more on the aesthetics of my page and make everything a little prettier
+
+---
+<center><h2>Part 3</h2></center>
+
+OH MAN! Part 3 was starting to drive me insane with the linking of the videos
+
+I had a very hard time with the posters for the videos
+
+Turns out I was just pulling my source from the wrong place
+
+Other than that everything went pretty smoothly
+
+I also had  ahard time trying to figure out which Guy Fieri videos to link and embed
