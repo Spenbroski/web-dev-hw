@@ -1,0 +1,21 @@
+@font-face {
+    font-family: 'Amatic SC', cursive;
+    src:
+        url('../fonts/Amatic-Regular.ttf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+  }
+  @font-face {
+    font-family: 'RozhaOne', serif;
+    src:
+        url('../fonts/RohzaOne-Regular.ttf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+  }
+  @font-face {
+    font-family: 'Amatic SC', cursive;
+    src:
+        url('../fonts/AmaticSC-Bold.ttf') format('opentype');
+    font-weight: bold;
+    font-style: normal;
+  }
