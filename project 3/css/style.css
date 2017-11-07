@@ -1,3 +1,101 @@
-* {
-    font-family: 'Amantic SC', cursive;
+body {
+    background-color: #dddfd4;
+    letter-spacing: 0.2em;
+}
+
+header {
+    font-family: 'RozhaOne', sans-serif;
+    background-color: #393d3f;
+    padding: 75px;
+}
+
+.content {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+}
+
+main {
+    background-color: #546a7b;
+    flex: 1 1 auto;
+    padding: 200px;
+}
+
+aside {
+    background-color: #c6c5b9;
+    flex: 1 1 auto;
+    padding: 10px;
+}
+
+footer {
+    background-color: #393d3f;
+    padding: 25px;
+}
+
+.main-container div {
+   font-size: 1em;
+   background-color: #373E42;
+   color: turquoise;
+   margin: 1em;
+   padding: 1em;
+}
+.main-container div p {
+   background-color: #F1F1F1;
+   color: #373E42;
+   padding: 1em;
+}
+.parent-1 .p1 {
+   line-height: 1.45em;
+}
+.parent-2 .p1 {
+   line-height: 1.0em;
+}
+.parent-3 .p1 {
+   line-height: 0.75em;
+}
+.parent-4 .p1 {
+   line-height: 0.1em;
+}
+.parent-5 .p1 {
+   line-height: 2.0em;
+}
+.parent-6 .p1 {
+   line-height: 4.0em;
+}
+.text-element {
+   font-size: 1.5em;
+   text-indent: 30px;
+}
+.text-element::first-letter {
+   color: Black;
+   font-weight: bolder;
+}
+.text-element::first-line {
+    background-color: #dddfd4;
+}
+
+.button {
+  font-size: 1em;
+  color: #c6c5b9;
+  background-color: #546a7b;
+  border-color: #c6c5b9;
+  border-style: solid;
+  position: relative;
+  margin: auto;
+  width: 9em;
+  text-align: center;
+}
+
+.button:hover {
+  color: #c6c5b9;
+  font-style: italic;
+}
+
+.button:active {
+  color: blue;
+}
+
+.pages {
+  text-align: center;
+  word-spacing: 80px;
 }

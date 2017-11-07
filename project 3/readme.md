@@ -72,3 +72,12 @@ I decided to go with more basic colors for my scheme, now I just gotta figure ou
 <img src="https://images-na.ssl-images-amazon.com/images/I/81NpqDKpkXL._SY355_.jpg">
 </center>
 </p>
+
+
+<u><b><center><h1> READ ME MK2 </h2></center></b></u>
+
+The fonts in this project killed me - and same goes with the css. I didn't pick up the new coding language as quickly as I thought, but of well.
+
+When creating my website I had a hard time with the layout of the website. My aside part of my css layout shomehow changed to being below the main.
+
+Well I'm drained so I'm just gonna call it there.
