@@ -81,3 +81,14 @@ The fonts in this project killed me - and same goes with the css. I didn't pick 
 When creating my website I had a hard time with the layout of the website. My aside part of my css layout shomehow changed to being below the main.
 
 Well I'm drained so I'm just gonna call it there.
+
+
+<u><b><center><h1> CSS Part 3 </h2></center></b></u>
+
+OH MAN! Well I am offically not a fan of CSS. I just find the whole design and everything a bit clunky.
+
+I had some trouble with my headers and the horizontal menu bar, but after checking my code I managed to fix the problem.
+
+I also had a problem with spliting my page into a side content, which I would've liked to do but I made do with tiny side menus near the botton of my About and Sample pages that linked to outside places.
+
+I had a problem with the dropdown menu but figured it out after a while.
