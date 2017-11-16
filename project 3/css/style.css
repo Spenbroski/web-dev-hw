@@ -35,7 +35,7 @@ footer {
 .main-container div {
    font-size: 1em;
    background-color: #373E42;
-   color: turquoise;
+   color: #546a7b;
    margin: 1em;
    padding: 1em;
 }
@@ -189,7 +189,7 @@ aside.content-side {
 }
 
 aside {
-  background-color: turquoise;
+  background-color: #c6c5b9;
   flex: 1 1 auto;
   padding: 75px;
   text-align: center;
