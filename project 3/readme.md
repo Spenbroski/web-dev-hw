@@ -92,3 +92,5 @@ I had some trouble with my headers and the horizontal menu bar, but after checki
 I also had a problem with spliting my page into a side content, which I would've liked to do but I made do with tiny side menus near the botton of my About and Sample pages that linked to outside places.
 
 I had a problem with the dropdown menu but figured it out after a while.
+
+and now im having trouble with coloring while im tryong to submit it to origin
